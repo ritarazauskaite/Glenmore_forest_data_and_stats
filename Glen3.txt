@@ -1,0 +1,82 @@
+"Pit"	"Name"	"Horizon"	"Age"	"BD_nr"	"x"
+16	"Bada queens 26"	"Oh. Low"	"OLD"	"BD1"	112.33
+5	"L.Mor"	"Oh. Low"	"OLD"	"BD1"	141.89
+19	"Ryvoan"	"Oh. Low"	"OLD"	"BD1"	122.58
+20	"Ryvoan"	"Oh. Low"	"OLD"	"BD1"	110.35
+16	"Bada queens 26"	"Oh. Up"	"OLD"	"BD1"	52.63
+5	"L.Mor"	"Oh. Up"	"OLD"	"BD1"	125.07
+19	"Ryvoan"	"Oh. Up"	"OLD"	"BD1"	63.43
+20	"Ryvoan"	"Oh. Up"	"OLD"	"BD1"	80.18
+3	"Tull. "	"Oh. Up"	"OLD"	"BD1"	44.3
+17	"Bada"	"Oh. Low"	"V.OLD"	"BD1"	106.71
+15	"Bada "	"Oh. Low"	"V.OLD"	"BD1"	74.16
+6	"L.Mor"	"Oh. Low"	"V.OLD"	"BD1"	121.72
+18	"Ryvoan"	"Oh. Low"	"V.OLD"	"BD1"	159.39
+2	"Tull. "	"Oh. Low"	"V.OLD"	"BD1"	67.95
+17	"Bada"	"Oh. Up"	"V.OLD"	"BD1"	59.53
+15	"Bada "	"Oh. Up"	"V.OLD"	"BD1"	48.32
+6	"L.Mor"	"Oh. Up"	"V.OLD"	"BD1"	102.34
+18	"Ryvoan"	"Oh. Up"	"V.OLD"	"BD1"	84.63
+2	"Tull. "	"Oh. Up"	"V.OLD"	"BD1"	58.73
+14	"Coyl."	"Oh. Low"	"YNG"	"BD1"	149.97
+10	"Drum. Lodge "	"Oh. Low"	"YNG"	"BD1"	168.01
+12	"L.Eil"	"Oh. Low"	"YNG"	"BD1"	117.71
+13	"L.Eil"	"Oh. Low"	"YNG"	"BD1"	98.61
+14	"Coyl."	"Oh. Up"	"YNG"	"BD1"	110.27
+9	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD1"	94.58
+10	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD1"	126.57
+12	"L.Eil"	"Oh. Up"	"YNG"	"BD1"	102.7
+13	"L.Eil"	"Oh. Up"	"YNG"	"BD1"	75.28
+16	"Bada queens 26"	"Oh. Low"	"OLD"	"BD2"	88.93
+5	"L.Mor"	"Oh. Low"	"OLD"	"BD2"	135.74
+19	"Ryvoan"	"Oh. Low"	"OLD"	"BD2"	113.75
+20	"Ryvoan"	"Oh. Low"	"OLD"	"BD2"	112.08
+16	"Bada queens 26"	"Oh. Up"	"OLD"	"BD2"	75.97
+5	"L.Mor"	"Oh. Up"	"OLD"	"BD2"	109.26
+19	"Ryvoan"	"Oh. Up"	"OLD"	"BD2"	61.35
+20	"Ryvoan"	"Oh. Up"	"OLD"	"BD2"	81.88
+3	"Tull. "	"Oh. Up"	"OLD"	"BD2"	60.83
+17	"Bada"	"Oh. Low"	"V.OLD"	"BD2"	98.56
+15	"Bada "	"Oh. Low"	"V.OLD"	"BD2"	67.39
+6	"L.Mor"	"Oh. Low"	"V.OLD"	"BD2"	132.03
+18	"Ryvoan"	"Oh. Low"	"V.OLD"	"BD2"	122.91
+17	"Bada"	"Oh. Up"	"V.OLD"	"BD2"	67.87
+15	"Bada "	"Oh. Up"	"V.OLD"	"BD2"	41.38
+6	"L.Mor"	"Oh. Up"	"V.OLD"	"BD2"	101.52
+18	"Ryvoan"	"Oh. Up"	"V.OLD"	"BD2"	97.11
+2	"Tull. "	"Oh. Up"	"V.OLD"	"BD2"	65.18
+14	"Coyl."	"Oh. Low"	"YNG"	"BD2"	182.09
+10	"Drum. Lodge "	"Oh. Low"	"YNG"	"BD2"	138.72
+12	"L.Eil"	"Oh. Low"	"YNG"	"BD2"	121.38
+13	"L.Eil"	"Oh. Low"	"YNG"	"BD2"	139.88
+14	"Coyl."	"Oh. Up"	"YNG"	"BD2"	115.63
+9	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD2"	100.3
+10	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD2"	122.93
+12	"L.Eil"	"Oh. Up"	"YNG"	"BD2"	91.08
+13	"L.Eil"	"Oh. Up"	"YNG"	"BD2"	83.74
+16	"Bada queens 26"	"Oh. Low"	"OLD"	"BD3"	131.17
+5	"L.Mor"	"Oh. Low"	"OLD"	"BD3"	117.47
+19	"Ryvoan"	"Oh. Low"	"OLD"	"BD3"	106.2
+20	"Ryvoan"	"Oh. Low"	"OLD"	"BD3"	142.49
+16	"Bada queens 26"	"Oh. Up"	"OLD"	"BD3"	73.04
+5	"L.Mor"	"Oh. Up"	"OLD"	"BD3"	137.64
+19	"Ryvoan"	"Oh. Up"	"OLD"	"BD3"	63.46
+20	"Ryvoan"	"Oh. Up"	"OLD"	"BD3"	68.92
+17	"Bada"	"Oh. Low"	"V.OLD"	"BD3"	68.34
+15	"Bada "	"Oh. Low"	"V.OLD"	"BD3"	51.27
+6	"L.Mor"	"Oh. Low"	"V.OLD"	"BD3"	87.39
+18	"Ryvoan"	"Oh. Low"	"V.OLD"	"BD3"	153.1
+17	"Bada"	"Oh. Up"	"V.OLD"	"BD3"	51.59
+15	"Bada "	"Oh. Up"	"V.OLD"	"BD3"	50.74
+6	"L.Mor"	"Oh. Up"	"V.OLD"	"BD3"	102.25
+18	"Ryvoan"	"Oh. Up"	"V.OLD"	"BD3"	93.14
+2	"Tull. "	"Oh. Up"	"V.OLD"	"BD3"	46.7
+14	"Coyl."	"Oh. Low"	"YNG"	"BD3"	151.21
+10	"Drum. Lodge "	"Oh. Low"	"YNG"	"BD3"	109.59
+12	"L.Eil"	"Oh. Low"	"YNG"	"BD3"	130.49
+13	"L.Eil"	"Oh. Low"	"YNG"	"BD3"	133.94
+14	"Coyl."	"Oh. Up"	"YNG"	"BD3"	114.41
+9	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD3"	103.23
+10	"Drum. Lodge "	"Oh. Up"	"YNG"	"BD3"	103.43
+12	"L.Eil"	"Oh. Up"	"YNG"	"BD3"	110.55
+13	"L.Eil"	"Oh. Up"	"YNG"	"BD3"	46.47
